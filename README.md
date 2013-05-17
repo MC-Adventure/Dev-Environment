@@ -1,7 +1,7 @@
 Dev-Environment
 ===============
 Custom made Eclipse environment to help others modify our mods (no idea if this actually works).
-====
+
 ### Usage
 1. Clone this repo into the folder of your choice.
 2. Go grab MCP and the source for Minecraftforge (look at the readme for the Core repository).
