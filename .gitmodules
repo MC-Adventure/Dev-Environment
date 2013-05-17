@@ -1,0 +1,6 @@
+[submodule "source/Core"]
+	path = source/Core
+	url = https://github.com/MC-Adventure/Core.git
+[submodule "source/Torch-Burnout"]
+	path = source/Torch-Burnout
+	url = https://github.com/MC-Adventure/Torch-Burnout.git
