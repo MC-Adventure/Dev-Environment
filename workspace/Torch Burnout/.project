@@ -16,6 +16,16 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>build.properties</name>
+			<type>1</type>
+			<locationURI>SRC_LOC/Torch-Burnout/build.properties</locationURI>
+		</link>
+		<link>
+			<name>build.xml</name>
+			<type>1</type>
+			<locationURI>SRC_LOC/Torch-Burnout/build.xml</locationURI>
+		</link>
+		<link>
 			<name>resources</name>
 			<type>2</type>
 			<locationURI>SRC_LOC/Torch-Burnout/resources</locationURI>

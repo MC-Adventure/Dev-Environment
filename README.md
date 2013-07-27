@@ -4,8 +4,8 @@ Custom made Eclipse environment to help others modify our mods (no idea if this 
 
 ### Usage
 1. Clone this repo into the folder of your choice.
-2. Go grab MCP and the source for Minecraftforge (look at the readme for the Core repository).
-3. Extract the two zip files into the 'mcp' folder (make sure the minecraftforge zip creates a 'forge' folder inside the 'mcp' folder).
+2. Go grab the source for Minecraftforge (look at the readme for the Core repository).
+3. Extract the zip file into the 'forge' folder.
 4. Open the 'forge' folder and run 'install.cmd' (Windows) or 'install.sh' (Unix/Mac OS(?)).
 5. Follow any prompts and wait for the program to finish running.
 6. Open eclipse and set workspace location to the 'workspace' folder.
